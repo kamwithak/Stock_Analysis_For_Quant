@@ -1,12 +1,24 @@
-<img src="Options_Titles.PNG">
-
-# Python for Options Trading and Investment
+# Excel for Options Trading and Investment
+<img src="Call_Option.png">
+<img src="Profit_Payoff.png">
 
 ## Description:  
-Learning about options trading in python.
+Learn about options trading in Excel. Learn how to input options in Excel. Learn to create option strategies. Options is risker than investing in stocks.   
+<img src="Option Table.png">  
+
+### Last: Shows the price of the most recent trade that went through.  
+### Chg (Change): Shows the change is how much the Last price has changed since the previous close.  
+### Bid: Shows when you're buying an option, you usually pay the ask price. The price at which buyers are trying to buy the option. 
+### Ask: Shows when you're selling, or writing, an option, you usually receive bid amount. The price at which sellers are trying to sell the option.  
+### Volume (Actual Trades): Shows you how many contracts have traded during the market day's traded session.  
+### Open Interest (Open Contracts): Shows the total number of outstanding option contracts that are still open. 
+### Strike Prices: Shows the price at which a call or put buyer can purchase the security if the option is exercised. 
+   
+
+<img src="Option Profits and Payoffs.png">
 
 ## What is options?  
-Options is a contract that gives the buyer the right, but not the oblication, to buy or sell an underlying asset at a specified strike price to a specified date.  Options have highter risk than stocks or equity.  
+Options is a contract that gives the buyer the right, but not the oblication, to buy or sell an underlying asset at a specified strike price to a specified date.  
 
 ### List of different types of analyzing options and options strategies  
 Options analysis is a method for investors use for to buy call and put; therefore, traders make decision in buying and selling. 
@@ -46,9 +58,6 @@ Options analysis is a method for investors use for to buy call and put; therefor
 - is an option with strike price is above where the stock price is currently and the option is made up of entirely extrinsic value.  
 
 
-<img src="Cheatsheet_Options.PNG">  
-   
-      
 ## Options Strategies    
 1. Long Call
 2. Long Put
@@ -63,9 +72,6 @@ Options analysis is a method for investors use for to buy call and put; therefor
 11. Long Call Butterfly Spread  
 12. Iron Condor  
 13. Iron Butterfly    
-
-<img src="FiveGreeks.PNG">    
-<img src="OptionsGreek.PNG">    
 
 ## Options Greeks   
 1. Delta - Measures change in option price when stock price moves  
@@ -87,6 +93,8 @@ Time Value = Option Premium - Intrinsic Value
 
 https://www.investopedia.com/trading/options-strategies/
 
+## Will add more options strategies 
+
 ## Author:    
 ### Tin Hang  
 
@@ -94,5 +102,5 @@ https://www.investopedia.com/trading/options-strategies/
 https://www.investopedia.com/trading/options-strategies/  
 https://www.optionsplaybook.com/option-strategies/  
 
-# :red_circle: Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
+:red_circle: Warning: This is not financial advisor.  Options is a high risk for investing and trading.  Do not use this to invest or trade. It is for educational purpose.  
 
